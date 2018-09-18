@@ -39,6 +39,11 @@ header label {
 	transform: translateX(0%);
 }
 
+.alter a:hover {
+	color: white;
+	border-bottom: 2px solid #fff;
+}
+
 @media (min-width: 1024px) {
 	.menu {
 		position: static;
